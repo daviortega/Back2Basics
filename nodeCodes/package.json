@@ -1,0 +1,12 @@
+{
+  "name": "nodecodes",
+  "version": "0.0.1",
+  "description": "playing around",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC",
+  "private": true
+}
